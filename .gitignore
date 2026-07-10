@@ -427,3 +427,19 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Ignore datasets
+data/
+datasets/
+images/
+
+# Ignore model weights
+*.pt
+*.pth
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore OneDrive junk
+*.tmp
+*.lnk
