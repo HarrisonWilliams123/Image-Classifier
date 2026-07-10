@@ -437,8 +437,6 @@ images/
 *.pt
 *.pth
 
-# Ignore notebook checkpoints
-.ipynb_checkpoints/
 
 # Ignore OneDrive junk
 *.tmp
